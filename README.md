@@ -1,0 +1,2 @@
+# dictionarymulti
+multi language dictionary
